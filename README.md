@@ -15,20 +15,20 @@ Welcome to **BlogSite**, a modern blogging platform built with the **MERN stack*
 ## 📸 Screenshots
 Here are some key screenshots of the application:
 
-### Mobile-Friendly Design
-![Mobile-Friendly Design](images/mobile-friendly.png)
+### Home Page
+![Home Page](images/home.png)
 
 ### Search Blog
 ![Search Blog](images/search-blog.png)
 
-### Filter Blogs by Tags
-![Filter Blogs by Tags](images/filter-blog-tag.png)
-
 ### Add a New Blog
 ![Add a New Blog](images/add-blog.png)
 
-### Home Page
-![Home Page](images/home.png)
+### Filter Blogs by Tags
+![Filter Blogs by Tags](images/filter-blog-tag.png)
+
+### Mobile-Friendly Design
+![Mobile-Friendly Design](images/mobile-friendly.png)
 
 ---
 
