@@ -1,0 +1,73 @@
+[
+  {
+    "title": "Introduction to React",
+    "content": "React is a JavaScript library for building user interfaces.",
+    "tags": ["Technology", "Education"]
+  },
+  {
+    "title": "10 Tips for Healthy Living",
+    "content": "Here are 10 simple tips for a healthier lifestyle.",
+    "tags": ["Lifestyle"]
+  },
+  {
+    "title": "Understanding MongoDB",
+    "content": "MongoDB is a NoSQL database that stores data in JSON-like documents.",
+    "tags": ["Technology", "Education"]
+  },
+  {
+    "title": "The Future of AI",
+    "content": "Artificial intelligence is transforming the world.",
+    "tags": ["Technology"]
+  },
+  {
+    "title": "The Rise of Electric Vehicles",
+    "content": "Electric vehicles are transforming the automotive industry by reducing emissions and improving energy efficiency.",
+    "tags": ["Technology", "Sustainability"]
+  },
+  {
+    "title": "How to Build a Personal Brand",
+    "content": "Building a personal brand can help you stand out in your industry and attract more opportunities.",
+    "tags": ["Business", "Self-Improvement"]
+  },
+  {
+    "title": "Top 10 Travel Destinations for 2024",
+    "content": "Here are some of the best travel destinations to visit in 2024, ranging from serene beaches to cultural hotspots.",
+    "tags": ["Travel", "Lifestyle"]
+  },
+  {
+    "title": "Understanding Cloud Computing",
+    "content": "Cloud computing allows businesses to store and access data over the internet instead of local servers.",
+    "tags": ["Technology", "Business"]
+  },
+  {
+    "title": "Mastering Time Management",
+    "content": "Effective time management techniques can help you boost productivity and maintain a healthy work-life balance.",
+    "tags": ["Productivity", "Self-Improvement"]
+  },
+  {
+    "title": "The Importance of Cybersecurity in 2024",
+    "content": "With increasing digital threats, cybersecurity is crucial for protecting sensitive information and ensuring privacy.",
+    "tags": ["Technology", "Security"]
+  },
+  {
+    "title": "The Impact of Social Media on Mental Health",
+    "content": "Social media can affect mental health, both positively and negatively, depending on how it's used.",
+    "tags": ["Lifestyle", "Mental Health"]
+  },
+  {
+    "title": "5 Tips for Starting a Successful Startup",
+    "content": "Starting a startup requires careful planning, market research, and perseverance. Here are five tips to guide you.",
+    "tags": ["Business", "Entrepreneurship"]
+  },
+  {
+    "title": "Exploring the World of Artificial Intelligence",
+    "content": "AI is revolutionizing industries from healthcare to finance by providing innovative solutions to complex problems.",
+    "tags": ["Technology", "AI"]
+  },
+  {
+    "title": "The Benefits of Meditation for Stress Relief",
+    "content": "Meditation is a powerful tool for reducing stress, improving mental clarity, and enhancing overall well-being.",
+    "tags": ["Lifestyle", "Health"]
+  }
+]
+
