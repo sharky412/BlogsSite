@@ -73,11 +73,10 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
    npm install
    ```
 
-3. Configure the backend. Create (or edit) `backend/.env`:
+3. Configure the backend. Copy `backend/.env.example` to `backend/.env` and set `MONGO_URI` to your MongoDB connection string (`.env` is git-ignored):
 
-   ```env
-   MONGO_URI=your_mongodb_connection_string
-   PORT=5000
+   ```bash
+   cp .env.example .env
    ```
 
    Sample posts you can import into your database are in `backend/mongoDB.json`.
