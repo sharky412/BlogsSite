@@ -7,6 +7,7 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -131,3 +132,7 @@ BlogsSite/
 ## 🤝 Contributions
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+## License
+
+Released under the [MIT License](LICENSE).
