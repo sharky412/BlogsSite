@@ -5,6 +5,7 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-7-646CFF?logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap&logoColor=white)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -44,7 +45,7 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
 
 | Layer    | Tech                                      |
 |----------|-------------------------------------------|
-| Frontend | React 19 (Create React App), Axios, Bootstrap 5 |
+| Frontend | React 19 (Vite), Axios, Bootstrap 5 |
 | Backend  | Node.js, Express, Mongoose, CORS, dotenv  |
 | Database | MongoDB                                   |
 
@@ -54,7 +55,7 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
 
 ### Prerequisites
 
-- Node.js and npm
+- Node.js 20.19+ (or 22.12+) and npm
 - MongoDB running locally, or a connection string to a remote MongoDB server
 
 ### Steps
@@ -94,10 +95,12 @@ A simple blogging app built on the **MERN stack** (MongoDB, Express, React, Node
    ```bash
    cd frontend
    npm install
-   npm start
+   npm start        # Vite dev server
    ```
 
 6. Open http://localhost:3000 in your browser.
+
+   To create a production build (output in `frontend/build/`) and preview it locally, run `npm run build` and then `npm run preview`.
 
 ---
 
@@ -121,7 +124,7 @@ BlogsSite/
 │   └── server.js              # Express server
 ├── frontend/
 │   └── src/
-│       ├── App.js             # Main page + "Add Blog" modal
+│       ├── App.jsx            # Main page + "Add Blog" modal
 │       └── components/        # Navbar, SearchBox, BlogCard
 └── images/                    # Screenshots
 ```

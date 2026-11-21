@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
-import SearchBox from "./components/SearchBox.js";
+import SearchBox from "./components/SearchBox";
 import BlogCard from "./components/BlogCard";
-import Navbar from "./components/Navbar.js";
+import Navbar from "./components/Navbar";
 
 const App = () => {
   const [blogs, setBlogs] = useState([]);
